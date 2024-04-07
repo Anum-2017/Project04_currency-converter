@@ -1,2 +1,3 @@
-### currency-converter
-This is command line currency converter
+# Project04 Currency Converter
+
+Develop a simple command line Currency Converter using TypeScipt, Node.js and Inquirer.
